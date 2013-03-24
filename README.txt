@@ -1,0 +1,1 @@
+Aqui irei compartilhar as atividades realizadas durante o curso de Ciência da Computação.
